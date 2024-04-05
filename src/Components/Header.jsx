@@ -37,7 +37,7 @@ const Header = () => {
           </div>
         </div>
         </div>
-            <img src={`https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745`} className='w-[60px] items-center rounded '/>
+            <img src={`https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745`} className='w-[50px] h-[50px] items-center rounded '/>
     </div>
   )
 }
